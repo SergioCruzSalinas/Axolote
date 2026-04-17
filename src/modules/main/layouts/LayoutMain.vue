@@ -14,4 +14,10 @@ import { RouterView } from 'vue-router';
 import NavigationView from '../components/NavigationView.vue';
 </script>
 
+<style>
+body {
+    background: #ece4ff;
+}
+</style>
+
 

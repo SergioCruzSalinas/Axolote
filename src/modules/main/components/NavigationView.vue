@@ -27,13 +27,13 @@
 
       <div class="flex items-center gap-4">
 
-        <RouterLink>
+        <RouterLink :to="{name:'login'}">
           <button class="text-white font-medium hover:text-[#b30086] transition">
             Ingresar
           </button>
         </RouterLink>
 
-        <RouterLink>
+        <RouterLink :to="{name:'register'}">
           <button class="bg-[#9400ff] text-white px-4 py-2 rounded-lg font-medium hover:bg-[#b30086] transition">
             Regístrate
           </button>

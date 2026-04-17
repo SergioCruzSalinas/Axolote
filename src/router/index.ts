@@ -1,4 +1,5 @@
 
+import { authRoutes } from '@/modules/auth/router'
 import LayoutMain from '@/modules/main/layouts/LayoutMain.vue'
 import HomeView from '@/modules/main/views/HomeView.vue'
 import { createRouter, createWebHistory } from 'vue-router'
@@ -24,7 +25,8 @@ const routes = [
         path: 'contact',
         name: 'contact',
         component: ()=>import('@/modules/main/views/ContactView.vue')
-      }
+      },
+      authRoutes
     ]
   }
 ]
