@@ -14,8 +14,4 @@ import { RouterView } from 'vue-router';
 import NavigationView from '../components/NavigationView.vue';
 </script>
 
-<style>
-body {
-    background: linear-gradient(135deg, #ff4fd8, #b30086);
-}
-</style>
+

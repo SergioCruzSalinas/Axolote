@@ -3,7 +3,7 @@
     <div class="max-w-6xl mx-auto">
 
       <div class="text-center mb-16">
-        <h1 class="text-4xl md:text-5xl font-bold text-[#172554]">
+        <h1 class="text-4xl md:text-5xl font-bold text-[#140022]">
           ¿Quiénes somos?
         </h1>
         <p class="text-gray-600 mt-4 max-w-2xl mx-auto">
@@ -18,9 +18,8 @@
             Descripción
           </h2>
           <p class="text-gray-600 leading-relaxed">
-            Plataforma digital accesible que permite a las pequeñas empresas gestionar sus 
-            operaciones y crear su presencia en línea de forma sencilla, facilitando el
-            control de citas, clientes y servicios sin necesidad de conocimientos técnicos.
+            Plataforma digital para impulsar el aprendizaje autónomo en estudiantes nivel 
+            secundaria a través de una aplicación educativa que estimulen su desarrollo académico
           </p>
         </div>
 
@@ -29,9 +28,9 @@
             Misión
           </h2>
           <p class="text-gray-600 leading-relaxed">
-            Ofrecer una plataforma digital enfocada en automatizar la gestión de citas y brindar 
-            páginas web profesionales, mejorando la administración y la presencia en línea de 
-            nuestros clientes.
+            Desarrollar plataformas digitales que proporcionen contenidos educativos fomentando el
+            aprendizaje de calidad y el pensamiento crítico con ayuda de recursos didácticos
+            adaptados a cada etapa del desarrollo escolar.
           </p>
         </div>
 
@@ -40,8 +39,9 @@
             Visión
           </h2>
           <p class="text-gray-600 leading-relaxed">
-            Posicionarnos a nivel local como una solución confiable y funcional que impulse la 
-            organización y visibilidad de las pequeñas empresas.
+            Ser un medio de fomente la educación en el mundo hispano ofreciendo experiencias de
+            aprendizaje accesibles, dinámicas y de calidad, empoderando a nuevas generaciones
+            para enfrentar los retos del futuro.
           </p>
         </div>
 

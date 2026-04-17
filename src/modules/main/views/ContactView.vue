@@ -51,8 +51,7 @@
 
             <button 
               type="submit"
-              class="w-full bg-[#2563EB] text-white py-3 rounded-lg font-semibold hover:bg-[#1D4ED8] transition"
-            >
+              class="w-full bg-[#6300b0] text-white py-3 rounded-lg font-semibold hover:bg-[#7e22ce] transition">
               Enviar mensaje
             </button>
 
@@ -66,7 +65,7 @@
               📧 Correo
             </h2>
             <p class="text-gray-600">
-              contacto@inventia.com
+              contacto@axolote.com
             </p>
           </div>
 
@@ -75,7 +74,9 @@
               📍 Ubicación
             </h2>
             <p class="text-gray-600">
-              Ciudad de México, México
+              Tecnológico de Estudios Superiores de Chimalhuacán, C. Ópalo 18, 
+              Sta Maria Nativitas,56335 Chimalhuacán, Méx.
+
             </p>
           </div>
 
