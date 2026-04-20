@@ -2,6 +2,7 @@
 import { authRoutes } from '@/modules/auth/router'
 import LayoutMain from '@/modules/main/layouts/LayoutMain.vue'
 import HomeView from '@/modules/main/views/HomeView.vue'
+import { dashboardRoutes } from '@/modules/students/routes/router'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
@@ -26,7 +27,8 @@ const routes = [
         name: 'contact',
         component: ()=>import('@/modules/main/views/ContactView.vue')
       },
-      authRoutes
+      authRoutes,
+      dashboardRoutes
     ]
   }
 ]

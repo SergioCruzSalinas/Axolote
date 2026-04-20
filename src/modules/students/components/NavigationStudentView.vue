@@ -12,19 +12,19 @@
       </div>
 
       <div class="hidden md:flex items-center gap-8">
-        <RouterLink :to="{name: 'home'}" class="text-white font-medium hover:text-[#b30086] transition">
+        <RouterLink :to="{name: 'activities'}" class="text-white font-medium hover:text-[#b30086] transition">
           Actividades
         </RouterLink>
 
-        <RouterLink :to="{name: 'about'}" class="text-white font-medium hover:text-[#b30086] transition">
+        <RouterLink :to="{name: 'exams'}" class="text-white font-medium hover:text-[#b30086] transition">
           Examenes
         </RouterLink>
 
-        <RouterLink :to="{name: 'contact'}" class="text-white font-medium hover:text-[#b30086] transition">
+        <RouterLink :to="{name: 'academicPerfil'}" class="text-white font-medium hover:text-[#b30086] transition">
           Perfil academico
         </RouterLink>
 
-        <RouterLink :to="{name: 'contact'}" class="text-white font-medium hover:text-[#b30086] transition">
+        <RouterLink :to="{name: 'perfil'}" class="text-white font-medium hover:text-[#b30086] transition">
           Perfil
         </RouterLink>
 
