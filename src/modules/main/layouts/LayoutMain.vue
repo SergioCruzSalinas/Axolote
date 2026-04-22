@@ -4,7 +4,7 @@
         <NavigationView v-else/>
     </nav>
 
-    <main class="relative z-10 pt-20">
+    <main class="relative z-10">
         <RouterView/>
     </main>
 

@@ -2,7 +2,7 @@
   <section class="py-5 px-6 bg-[#f8fafc]">
     <div class="max-w-6xl mx-auto">
 
-      <div class="text-center mb-6">
+      <div class="text-center mb-6 mt-20">
         <h1 class="text-4xl md:text-5xl font-bold text-[#172554]">
           Contáctanos
         </h1>
