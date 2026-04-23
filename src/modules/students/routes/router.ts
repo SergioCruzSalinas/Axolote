@@ -4,8 +4,14 @@ import type { RouteRecordRaw } from "vue-router";
 export const dashboardRoutes: RouteRecordRaw = {
     path:'dashboard',
     name: 'dashboard',
+    redirect: {name:'activities'},
     component: () => import('@/modules/students/layouts/LayoutStudentView.vue'),
     children: [
+        {
+            path: 'materia',
+            name:'subject',
+            component: () => import('@/modules/students/views/SubjectView.vue')
+        },
         {
             path: 'actividades',
             name: 'activities',
