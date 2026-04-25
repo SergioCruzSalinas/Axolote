@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex items-center justify-center bg-[#ece4ff] pb-25">
+  <div class="min-h-screen flex items-center justify-center bg-[#ece4ff]">
 
     <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md">
 

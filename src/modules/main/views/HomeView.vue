@@ -14,7 +14,7 @@
         </p>
 
         <div class="flex flex-wrap gap-4 mt-8">
-          <RouterLink :to="{name: 'about'}">
+          <RouterLink :to="{name: 'register'}">
             <button class="px-6 py-3 bg-[#6300b0] rounded-lg font-semibold hover:bg-[#7e22ce] transition">
               Registrarme
             </button>

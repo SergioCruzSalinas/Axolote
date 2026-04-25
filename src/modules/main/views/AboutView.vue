@@ -39,7 +39,7 @@
             Visión
           </h2>
           <p class="text-gray-600 leading-relaxed">
-            Ser un medio de fomente la educación en el mundo hispano ofreciendo experiencias de
+            Ser un medio que fomente la educación en el mundo hispano ofreciendo experiencias de
             aprendizaje accesibles, dinámicas y de calidad, empoderando a nuevas generaciones
             para enfrentar los retos del futuro.
           </p>
