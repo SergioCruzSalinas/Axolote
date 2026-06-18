@@ -4,12 +4,12 @@
 
     <div class="flex items-center justify-between">
       <h2 class="text-[#140022] font-bold text-xl">Materia:</h2>
-      <p class="text-lg font-semibold text-gray-700">Asignatura de la materia</p>
+      <p class="text-lg font-semibold text-gray-700">Matemáticas</p>
     </div>
 
     <div class="flex flex-col gap-1">
       <h3 class="text-sm text-gray-500 uppercase tracking-wide">Tema</h3>
-      <p class="text-lg font-medium text-gray-800">Nombre del tema</p>
+      <p class="text-lg font-medium text-gray-800">Algebra</p>
     </div>
 
     <div class="flex flex-col gap-2">

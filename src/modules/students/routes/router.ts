@@ -36,6 +36,11 @@ export const dashboardRoutes: RouteRecordRaw = {
             path: 'perfil_academico',
             name: 'academicPerfil',
             component: ()=> import('@/modules/students/views/PerfilAcademicView.vue')
+        },
+        {
+            path: 'examen_general',
+            name: 'examGeneral',
+            component: ()=> import('@/modules/students/views/GeneralExamView.vue')
         }
     ]
 }

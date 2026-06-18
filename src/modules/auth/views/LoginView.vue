@@ -12,7 +12,7 @@
         </p>
       </div>
 
-      <form class="flex flex-col gap-4" @submit.prevent="login"   >
+      <form class="flex flex-col gap-4" @submit.prevent="login">
 
         <div class="flex flex-col">
           <label class="text-[#140022] font-semibold mb-1">
@@ -52,19 +52,21 @@
 </template>
 
 <script lang="ts" setup>
-import { ref } from 'vue';
+import { ref } from 'vue'
+import { useRouter } from 'vue-router'
 
 const mail = ref('')
 const password = ref('')
+const router = useRouter()
 
-const login = () =>{
-  if(mail.value !== '' && password.value !== ''){
+const login = () => {
+  if (mail.value !== '' && password.value !== '') {
+
     localStorage.setItem('authenticate', 'true')
+
+    window.dispatchEvent(new Event('storage'))
+
+    router.push({ name: 'examGeneral' })
   }
-
-
 }
-
-
-
 </script>

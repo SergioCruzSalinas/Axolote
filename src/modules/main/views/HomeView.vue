@@ -123,32 +123,37 @@
     <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
 
       <div class="bg-white p-6 rounded-2xl shadow text-center">
-        <h3 class="font-bold text-xl">Gratis</h3>
+        <h3 class="font-bold text-xl">Paquete explorador</h3>
         <p class="text-2xl my-4">$0</p>
         <ul class="text-sm space-y-2 text-gray-600">
-          <li>Cursos básicos</li>
-          <li>Exámenes</li>
-          <li>Con anuncios</li>
+          <li>Acceso a contenido básico de matemáticas y lectura</li>
+          <li>Actividades limitadas por día</li>
+          <li>Sistema de puntos y logros básico</li>
+          <li>Publicidad ligera o recordatorios de upgrade</li>
         </ul>
       </div>
 
       <div class="bg-[#6300b0] text-white p-6 rounded-2xl shadow text-center scale-105">
-        <h3 class="font-bold text-xl">Pro</h3>
-        <p class="text-2xl my-4">$49 / mes</p>
+        <h3 class="font-bold text-xl"> Paquete Estudiante</h3>
+        <p class="text-2xl my-4"> $39 MXN / mes</p>
         <ul class="text-sm space-y-2">
-          <li>+ Juegos</li>
-          <li>+ Pistas inteligentes</li>
-          <li>Menos anuncios</li>
+          <li>Acceso completo a actividades educativas</li>
+          <li>Sin anuncios</li>
+          <li>Progreso guardado en la nube</li>
+          <li>Misiones semanales gamificadas</li>
+          <li>Reporte básico de desempeño</li>
         </ul>
       </div>
 
       <div class="bg-white p-6 rounded-2xl shadow text-center">
-        <h3 class="font-bold text-xl">Premium</h3>
+        <h3 class="font-bold text-xl">Paquete Pro Aprendizaje</h3>
         <p class="text-2xl my-4">$749 / año</p>
         <ul class="text-sm space-y-2 text-gray-600">
-          <li>Sin anuncios</li>
-          <li>Biblioteca completa</li>
-          <li>Pistas ilimitadas</li>
+          <li>Recomendaciones personalizadas con IA (tutor básico)</li>
+          <li>Simulaciones de exámenes</li>
+          <li>Retos diarios adaptativos</li>
+          <li>Ranking nacional/municipal</li>
+          <li>Insignias avanzadas</li>
         </ul>
       </div>
 
